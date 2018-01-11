@@ -18,7 +18,7 @@
   "dependencies": {
     "sqlite3": "^3.1.8",
     "masterquest-sqlite3": "^1.0.3",
-    "gun": "^0.7.0"
+    "gun": "^0.9.7"
   },
   "devDependencies": {
     "mocha": "^3.0.0"
